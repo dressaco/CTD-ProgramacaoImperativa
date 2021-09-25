@@ -1,4 +1,4 @@
-const dados = require("./dados");
+const dados = require('./dados');
 
 //3 - ótimo
 //2 - bom

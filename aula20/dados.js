@@ -1,6 +1,3 @@
-
-
-
 const dados = [
 	{
 		nome: "Arthur Jimenez",
